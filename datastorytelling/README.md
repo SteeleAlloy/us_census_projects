@@ -4,7 +4,7 @@ As a resident of the United States I often wonder what our nation really looks l
 
 ## Overall Summary
 
-For this project I decided to use the 2017 U.S. Census dataset available at [Kaggle.com](#https://www.kaggle.com/muonneutrino/us-census-demographic-data%5D). The dataset itself is broken up into demographic information by State and subsequent counties within the state. The dataset provided information about population numbers, ethnicity, income, employment, and modes of transportation to work. A detailed explanation of the features for the dataset can be found at the link above.
+For this project I decided to use the 2017 U.S. Census dataset available at [Kaggle.com](https://www.kaggle.com/muonneutrino/us-census-demographic-data%5D). The dataset itself is broken up into demographic information by State and subsequent counties within the state. The dataset provided information about population numbers, ethnicity, income, employment, and modes of transportation to work. A detailed explanation of the features for the dataset can be found at the link above.
 
 
 Some of the skills I practiced during this project were:
